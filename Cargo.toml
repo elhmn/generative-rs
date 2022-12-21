@@ -3,3 +3,5 @@ members = [
 	"day1",
 	"schotter1",
 ]
+
+ resolver="2"
